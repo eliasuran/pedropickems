@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@auth/supabase-adapter": "^0.1.4",
+    "@supabase/supabase-js": "^2.38.1",
+    "next": "13.5.4",
+    "next-auth": "^4.23.2",
+    "prettier": "^3.0.3",
     "react": "^18",
     "react-dom": "^18",
-    "next": "13.5.4"
+    "react-icons": "^4.11.0"
   },
   "devDependencies": {
     "typescript": "^5",
